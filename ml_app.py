@@ -1,11 +1,8 @@
 import streamlit as st
 import tensorflow.keras as keras
 
-
-
 from PIL import Image, ImageOps
 import numpy as np
-
 
 # add styling
 with open('style.css') as f:
